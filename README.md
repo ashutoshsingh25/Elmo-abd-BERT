@@ -1,2 +1,2 @@
-# Elmo-abd-BERT
+# Elmo-and-BERT
 Classification and Similarity using new state of art methods like elmo and bert
